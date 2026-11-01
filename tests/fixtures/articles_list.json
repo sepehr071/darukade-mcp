@@ -1,0 +1,112 @@
+{
+ "magCatData": {
+  "title": "لیست مقالات",
+  "filters": {
+   "pages": {
+    "totalPage": 138,
+    "currentPage": 1,
+    "pageCount": 21,
+    "totalArticleCount": 2896,
+    "querystring": "p"
+   },
+   "groupID": 0,
+   "authorID": 0,
+   "tagID": 0,
+   "sorts": [
+    {
+     "id": 0,
+     "title": "جدید ترین",
+     "selected": true,
+     "querystring": "s",
+     "orderRow": 0
+    },
+    {
+     "id": 1,
+     "title": "قدیمی ترین",
+     "selected": false,
+     "querystring": "s",
+     "orderRow": 1
+    },
+    {
+     "id": 2,
+     "title": "محبوب ترین",
+     "selected": false,
+     "querystring": "s",
+     "orderRow": 2
+    }
+   ]
+  },
+  "articles": [
+   {
+    "id": 2933,
+    "title": "راهنمای جامع پیشگیری از بیماری‌های قلبی؛ از سبک زندگی تا مکمل‌ها",
+    "image": "https://statics.darukade.com/Images/Articles/29332026102817814.jpg",
+    "url": "/mag/articles/illness-5/comprehensive-guide-to-cardiovascular-disease-prevention-from-lifestyle-to-supplements-2933",
+    "overView": "در این مقاله تخصصی از مجله علمی داروکده به بررسی جامع راهکارهای علمی، اصلاح سبک زندگی، تغذیه، ورزش و نقش مکمل‌های دارویی در جلوگیری از بیماری‌های قلبی عروقی می‌پردازیم.",
+    "author": "محمدرضا روح‌ الامینی",
+    "authorSum": "<p><span style=\"color:black;\">کارشناس علوم تغذیه از دانشگاه علوم پزشکی کرمان</span></p>",
+    "authorURL": "/mag/authors/70",
+    "avatar": "https://statics.darukade.com/Images/Avatars/AU202521284736.jpg",
+    "shamsiDate": "09 آبان 1405",
+    "like": 0,
+    "visit": "0"
+   },
+   {
+    "id": 2932,
+    "title": "ارتقاء کیفیت خواب و آرامش اعصاب با مکمل منیزیم",
+    "image": "https://statics.darukade.com/Images/Articles/293220261028101711.jpg",
+    "url": "/mag/articles/suplement-9/improving-sleep-quality-with-magnesium-supplement-2932",
+    "overView": "شب‌ها با وجود خستگی خوابتان نمی‌برد؟ در این ویدیو از مجله علمی داروکده با تفاوت انواع منیزیم، علت اثربخشی و بهترین زمان مصرف آن برای داشتن خوابی آرام آشنا خواهید شد.",
+    "author": "مهتاب باقری دیزج",
+    "authorSum": "<p>کارشناس ارشد تغذیه از دانشگاه علوم پزشکی تهران</p>",
+    "authorURL": "/mag/authors/57",
+    "avatar": "https://statics.darukade.com/Images/Avatars/AU20241015112855.jpg",
+    "shamsiDate": "06 آبان 1405",
+    "like": 0,
+    "visit": "0"
+   },
+   {
+    "id": 2931,
+    "title": "بهترین طعم پروتئین وی کدام است؟",
+    "image": "https://statics.darukade.com/Images/Articles/293120261028104832.jpg",
+    "url": "/mag/articles/bodybuilding-suplements-13/best-whey-protein-flavor-2931",
+    "overView": "در این مقاله در مجله علمی داروکده، به بررسی علمی بهترین طعم‌های پروتئین وی، مکانیسم‌های حسی و راهنمای انتخاب بر اساس برند و ذائقه پرداخته‌ایم.",
+    "author": "مهدی نصیری",
+    "authorSum": "<p>کارشناس ارشد تغذیه ورزشی از دانشگاه علوم پزشکی تهران</p>",
+    "authorURL": "/mag/authors/72",
+    "avatar": "https://statics.darukade.com/Images/Avatars/AU202534105130.jpg",
+    "shamsiDate": "06 آبان 1405",
+    "like": 0,
+    "visit": "2K"
+   },
+   {
+    "id": 2930,
+    "title": "خواص ژل رویال برای زنان",
+    "image": "https://statics.darukade.com/Images/Articles/293020261028103840.jpg",
+    "url": "/mag/articles/suplement-9/benefits-of-royal-jelly-for-women-2930",
+    "overView": "در این مقاله از مجله داروکده به بررسی خواص ژل رویال برای زنان پرداخته‌ایم.",
+    "author": "مهشید رضائی",
+    "authorSum": "<p>کارشناس ارشد تغذیه از دانشگاه علوم پزشکی شهید بهشتی</p>",
+    "authorURL": "/mag/authors/52",
+    "avatar": "https://statics.darukade.com/Images/Avatars/AU202642612812.jpg",
+    "shamsiDate": "06 آبان 1405",
+    "like": 0,
+    "visit": "0"
+   },
+   {
+    "id": 2929,
+    "title": "الفبای بهداشت کودک: از فرمول شوینده تا روتین حمام",
+    "image": "https://statics.darukade.com/Images/Articles/29292026102785952.webp",
+    "url": "/mag/articles/hair-3/child-skincare-essentials-2929",
+    "overView": "آشنایی با اصول بهداشت پوست و موی کودک، انتخاب شوینده مناسب، ترکیبات مفید و ممنوعه و روتین حمام و مراقبت روزانه در این مقاله از مجله علمی داروکده.",
+    "author": "ملیکا عظیمی",
+    "authorSum": "<p>کارشناس ارشد شیمی دارویی</p>",
+    "authorURL": "/mag/authors/86",
+    "avatar": "https://statics.darukade.com/Images/Avatars/AU2026101017553.jpeg",
+    "shamsiDate": "06 آبان 1405",
+    "like": 0,
+    "visit": "2K"
+   }
+  ]
+ }
+}

@@ -1,0 +1,423 @@
+{
+ "categoryMataData": {
+  "title": "محصولات داروکده",
+  "breadCrumb": [
+   {
+    "id": 1,
+    "title": "داروکده",
+    "url": "/"
+   },
+   {
+    "id": 2,
+    "title": "محصولات",
+    "url": "/products"
+   }
+  ],
+  "url": "/products?s=10&p=1",
+  "filters": {
+   "pages": {
+    "totalPage": 1196,
+    "currentPage": 1,
+    "pageProductCount": 24,
+    "totalProductCount": 28688,
+    "querystring": "p"
+   },
+   "internalSearch": null,
+   "activeFilter": null,
+   "store": {
+    "title": "محصولات موجود",
+    "querystring": "a",
+    "value": false
+   },
+   "discount": {
+    "title": "محصولات باتخفیف",
+    "querystring": "d",
+    "value": false
+   },
+   "gift": {
+    "title": "محصولات باهدیه",
+    "querystring": "v",
+    "value": false
+   },
+   "list": [
+    {
+     "id": 2,
+     "title": "گروهها",
+     "querystring": "g",
+     "items": [
+      {
+       "id": 918,
+       "title1": "اصلاح",
+       "title2": null,
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": [
+        {
+         "id": 920,
+         "title1": "اپیلاتور",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 1108,
+         "title1": "اصلاح صورت بانوان",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 925,
+         "title1": "بعد از اصلاح",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 841,
+         "title1": "پک اصلاح آقایان",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        }
+       ]
+      },
+      {
+       "id": 860,
+       "title1": "ضد آفتاب",
+       "title2": null,
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": [
+        {
+         "id": 1155,
+         "title1": "پک ضد آفتاب",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 1379,
+         "title1": "ضد آفتاب انواع پوست",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 58,
+         "title1": "ضد آفتاب پوست چرب",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 760,
+         "title1": "ضد آفتاب پوست حساس",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": 1,
+     "title": "برندها",
+     "querystring": "b",
+     "items": [
+      {
+       "id": 2471,
+       "title1": "ارس",
+       "title2": "Aras",
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": null
+      },
+      {
+       "id": 315,
+       "title1": "الارو",
+       "title2": "Ellaro",
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": null
+      },
+      {
+       "id": 874,
+       "title1": "خوارزمی",
+       "title2": "Kharazmi",
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": null
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "title": "انواع",
+     "querystring": "ty",
+     "items": [
+      {
+       "id": 54,
+       "title1": "آمپول",
+       "title2": "Ampoule",
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": null
+      },
+      {
+       "id": 28,
+       "title1": "اسپری",
+       "title2": "Spray",
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": null
+      },
+      {
+       "id": 279,
+       "title1": "پودر و کپسول",
+       "title2": "Powder and Capsule",
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": null
+      },
+      {
+       "id": 195,
+       "title1": "قرص و کپسول",
+       "title2": "Tablet and Capsule",
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": null
+      }
+     ]
+    }
+   ],
+   "cost": {
+    "title": "قیمت",
+    "querystring": "co",
+    "minCost": 433,
+    "maxCost": 22895700,
+    "minCostValue": 433,
+    "maxCostValue": 22895700
+   },
+   "sorts": [
+    {
+     "id": 17,
+     "title": "جدید ترین",
+     "selected": false,
+     "querystring": "s",
+     "orderRow": 1
+    },
+    {
+     "id": 5,
+     "title": "ارزانترین",
+     "selected": false,
+     "querystring": "s",
+     "orderRow": 2
+    },
+    {
+     "id": 6,
+     "title": "گرانترین",
+     "selected": false,
+     "querystring": "s",
+     "orderRow": 3
+    },
+    {
+     "id": 15,
+     "title": "بیشترین تخفیف",
+     "selected": false,
+     "querystring": "s",
+     "orderRow": 4
+    },
+    {
+     "id": 10,
+     "title": "پر بازدید ترین",
+     "selected": false,
+     "querystring": "s",
+     "orderRow": 5
+    },
+    {
+     "id": 1,
+     "title": "نام محصول",
+     "selected": false,
+     "querystring": "s",
+     "orderRow": 6
+    },
+    {
+     "id": 12,
+     "title": "محبوب ترین",
+     "selected": false,
+     "querystring": "s",
+     "orderRow": 6
+    },
+    {
+     "id": 3,
+     "title": "نام برند",
+     "selected": false,
+     "querystring": "s",
+     "orderRow": 7
+    }
+   ]
+  },
+  "products": [
+   {
+    "id": 1276,
+    "faName": "هیرویت",
+    "productURL": "/products/supplement-hair-care-1157/softgel-hair-vit-1276",
+    "image": "https://statics.darukade.com/Images/Products/15421127620221411.jpg",
+    "brandEnName": "Health Aid",
+    "brandURL": "/brands/health-aid-89",
+    "rank": 3.8,
+    "slaveTitle": "",
+    "slaveTypeID": 0,
+    "slaveTypeTitle": "",
+    "slaveCount": 0,
+    "orginalCost": 1173500,
+    "discountCost": 798000,
+    "discountPercent": 32,
+    "storeState": true,
+    "storeCount": 5120,
+    "quickBuy": true,
+    "hasGift": false,
+    "isADV": false,
+    "freeDelivery": false
+   },
+   {
+    "id": 1222,
+    "faName": "ول وومن اورجینال",
+    "productURL": "/products/supplement-womens-multivitamins-1005/tablet-well-woman-original-1222",
+    "image": "https://statics.darukade.com/Images/Products/11442312222026101911.jpg",
+    "brandEnName": "Vitabiotics",
+    "brandURL": "/brands/vitabiotics-690",
+    "rank": 3.7,
+    "slaveTitle": "",
+    "slaveTypeID": 0,
+    "slaveTypeTitle": "",
+    "slaveCount": 0,
+    "orginalCost": 1227600,
+    "discountCost": 1227600,
+    "discountPercent": 0,
+    "storeState": true,
+    "storeCount": 1802,
+    "quickBuy": true,
+    "hasGift": false,
+    "isADV": false,
+    "freeDelivery": false
+   },
+   {
+    "id": 17005,
+    "faName": "نورودینون",
+    "productURL": "/products/supplement-b-complex-vitamin-1035/tablet-neurodinon-17005",
+    "image": "https://statics.darukade.com/Images/Products/8594317005202542011.jpg",
+    "brandEnName": "Vitawell",
+    "brandURL": "/brands/vitawell-1535",
+    "rank": 4.1,
+    "slaveTitle": "",
+    "slaveTypeID": 0,
+    "slaveTypeTitle": "",
+    "slaveCount": 0,
+    "orginalCost": 379500,
+    "discountCost": 296100,
+    "discountPercent": 22,
+    "storeState": true,
+    "storeCount": 474,
+    "quickBuy": true,
+    "hasGift": false,
+    "isADV": false,
+    "freeDelivery": false
+   },
+   {
+    "id": 7596,
+    "faName": "مگنیفورت",
+    "productURL": "/products/supplement-magnesium-1024/capsule-magniforte-7596",
+    "image": "https://statics.darukade.com/Images/Products/10394175962021101811.jpg",
+    "brandEnName": "Arian Salamat Sina",
+    "brandURL": "/brands/arian-salamat-sina-1874",
+    "rank": 4.2,
+    "slaveTitle": "",
+    "slaveTypeID": 0,
+    "slaveTypeTitle": "",
+    "slaveCount": 0,
+    "orginalCost": 642400,
+    "discountCost": 481800,
+    "discountPercent": 25,
+    "storeState": true,
+    "storeCount": 100,
+    "quickBuy": true,
+    "hasGift": false,
+    "isADV": false,
+    "freeDelivery": false
+   },
+   {
+    "id": 20601,
+    "faName": "وی پروتئین 100 درصد 1800 گرمی",
+    "productURL": "/products/supplement-whey-protein-172/powder-whey-protein-100-1800-g-20601",
+    "image": "https://statics.darukade.com/Images/Products/150820601202343011.jpg",
+    "brandEnName": "Kalleh Pro",
+    "brandURL": "/brands/kalleh-pro-2252",
+    "rank": 3.5,
+    "slaveTitle": "+ 3 طعم",
+    "slaveTypeID": 3,
+    "slaveTypeTitle": "طعم",
+    "slaveCount": 3,
+    "orginalCost": 9500000,
+    "discountCost": 8740000,
+    "discountPercent": 8,
+    "storeState": true,
+    "storeCount": 94,
+    "quickBuy": false,
+    "hasGift": false,
+    "isADV": false,
+    "freeDelivery": true
+   },
+   {
+    "id": 1223,
+    "faName": "ول من اوریجینال",
+    "productURL": "/products/supplement-mens-multivitamins-1004/tablet-well-man-original-1223",
+    "image": "https://statics.darukade.com/Images/Products/1543121223202672611.jpg",
+    "brandEnName": "Vitabiotics",
+    "brandURL": "/brands/vitabiotics-690",
+    "rank": 4.2,
+    "slaveTitle": "",
+    "slaveTypeID": 0,
+    "slaveTypeTitle": "",
+    "slaveCount": 0,
+    "orginalCost": 1196000,
+    "discountCost": 1196000,
+    "discountPercent": 0,
+    "storeState": true,
+    "storeCount": 2215,
+    "quickBuy": true,
+    "hasGift": false,
+    "isADV": false,
+    "freeDelivery": false
+   }
+  ],
+  "categoryID": "0/0/0"
+ }
+}

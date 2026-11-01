@@ -1,0 +1,163 @@
+{
+ "categoryMataData": {
+  "title": "محصولات الارو",
+  "description": "<h1 style=\"text-align:justify;\"><span style=\"color:hsl(0, 75%, 60%);\"><i><strong>برند الارو (ellaro)</strong></i></span></h1><p style=\"text-align:justify;\">&nbsp;</p><p style=\"text-align:justify;\">الارو به معنای زن، زیبایی و آب است. برند الارو در سال&nbsp;2007 در شهر آنژه فرانسه زیر نظر متخصصان لابراتوار وناژ فعالیت خود را آغاز کرد. مواد اولیه به کار رفته در فرمولاسیون محصولات این برند از <strong>تاییدیه کیفی اروپا&nbsp;</strong>برخوردار هستند.&nbsp;</p><p style=\"text-align:justify;\">این محصولات <strong>درموکازمتیک</strong> هستند؛ به این معنا که تمام ویژگی های آرایشی و بهداشتی مورد نیاز مصرف کنندگان را همزمان با خصوصیات محصولات مورد تایید پزشکان پوست و مو با هم دارند.</p><p style=\"text-align:justify;\">در ادامه هر کدام از گروه محصولات برند الارو به تفکیک همراه با توضیحاتی مختصر معرفی شده اند.</p><p style=\"text-align:justify;\">&nbsp;</p><h2 style=\"text-align:justify;\"><strong>محصولات ضد آفتاب الارو</strong></h2><p style=\"text-align:justify;\">&nbsp;</p><p style=\"text-align:justify;\">به عقیده متخصصان پوست، استفاده منظم و روزانه از ضد آفتاب در تمام فصول، کلید اصلی برای داشتن پوستی جوان و زیبا است. محصولات ضد آفتاب به خوبی از پوست در برابر عوارض اشعه های مضر&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://darukade.com/mag/articles/skin-2/a-little-bit-about-uva-and-uvb-25\"><span style=\"color:hsl(210, 75%, 60%);\"><strong>UVA و&nbsp;UVB</strong></span></a><strong>&nbsp;</strong>و رادیکالهای آزاد محافظت می کنند.</p><p style=\"text-align:justify;\">محصولات ضد آفتاب الارو د",
+  "filters": {
+   "pages": {
+    "totalPage": 4,
+    "currentPage": 1,
+    "pageProductCount": 24,
+    "totalProductCount": 77,
+    "querystring": "p"
+   },
+   "list": [
+    {
+     "id": 2,
+     "title": "گروهها",
+     "querystring": "g",
+     "items": [
+      {
+       "id": 18,
+       "title1": "پاک کننده",
+       "title2": null,
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": [
+        {
+         "id": 1376,
+         "title1": "پاک کننده انواع پوست",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 65,
+         "title1": "پاک کننده بدن",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 19,
+         "title1": "پاک کننده پوست چرب و آکنه ای",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 35,
+         "title1": "پاک کننده پوست خشک",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 22,
+         "title1": "پاک کننده پوست معمولی و مختلط",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 375,
+         "title1": "پاک کننده دور چشم",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 715,
+         "title1": "لایه بردار و اسکراب",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        }
+       ]
+      },
+      {
+       "id": 7,
+       "title1": "ترمیم کننده",
+       "title2": null,
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": [
+        {
+         "id": 649,
+         "title1": "ترمیم کننده لب",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        }
+       ]
+      },
+      {
+       "id": 860,
+       "title1": "ضد آفتاب",
+       "title2": null,
+       "color": null,
+       "selected": false,
+       "icon": null,
+       "items": [
+        {
+         "id": 1379,
+         "title1": "ضد آفتاب انواع پوست",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 58,
+         "title1": "ضد آفتاب پوست چرب",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 760,
+         "title1": "ضد آفتاب پوست حساس",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        },
+        {
+         "id": 861,
+         "title1": "ضد آفتاب کودکان",
+         "title2": null,
+         "color": null,
+         "selected": false,
+         "icon": null,
+         "items": null
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "products": []
+ }
+}

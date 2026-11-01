@@ -1,0 +1,498 @@
+{
+ "section1Data": {
+  "id": 1276,
+  "productCode": "D-1276",
+  "faName": "هیرویت",
+  "enName": "Hair Vit",
+  "productURL": "/products/supplement-hair-care-1157/softgel-hair-vit-1276",
+  "breadCrumb": [
+   {
+    "id": 1,
+    "title": "صفحه نخست",
+    "url": "/"
+   },
+   {
+    "id": 2,
+    "title": "مکمل غذایی",
+    "url": "/products?c=4"
+   },
+   {
+    "id": 3,
+    "title": "مراقبت مو",
+    "url": "/products/hair-care-1157"
+   },
+   {
+    "id": 4,
+    "title": "هیرویت",
+    "url": "/products/supplement-hair-care-1157/softgel-hair-vit-1276"
+   }
+  ],
+  "brandID": 89,
+  "brandFaName": "هلث اید",
+  "brandEnName": "Health Aid",
+  "brandURL": "/brands/health-aid-89",
+  "visit": "4M",
+  "rank": 3.8,
+  "satisfyPercent": 0,
+  "commentCount": 200,
+  "viewPointCount": 0,
+  "slaves": {
+   "id": 1,
+   "title": "",
+   "variety": null,
+   "items": [
+    {
+     "id": 1276,
+     "productCode": null,
+     "typeID": 0,
+     "isSelected": true,
+     "title": null,
+     "image": null,
+     "color": null,
+     "orginalCost": 1173500,
+     "discountCost": 798000,
+     "discountPercent": 32,
+     "storeState": true,
+     "storeCount": 5120,
+     "maxSell": 0,
+     "expiration": "بیش از 1 سال",
+     "expirationIcon": "https://statics.darukade.com/Images/Icons/ExpirationDate1.svg",
+     "images": [
+      {
+       "id": 0,
+       "image": "https://statics.darukade.com/Images/Products/15421127620221411.jpg",
+       "videoURL": null,
+       "type": 1
+      },
+      {
+       "id": 1,
+       "image": "https://statics.darukade.com/Images/Products/152219127620221421.jpg",
+       "videoURL": null,
+       "type": 1
+      }
+     ],
+     "timeout": null,
+     "dic": [],
+     "isMaster": false,
+     "creditPoint": 0,
+     "isLike": false,
+     "freeDelivery": false
+    }
+   ]
+  },
+  "review": {
+   "title": "درباره محصول :",
+   "content": "<ul><li><strong>قرص هیرویت</strong> حاوی ریزمغذی های مناسب برای کمک به درخشندگی، ضخامت و تقویت ریشه مو</li><li>تقویت و افزایش ضخامت تارهای موی آسیب دیده</li><li>کمک به توقف و کاهش ریزش مو ناشی از استرس، آلودگی هوا و کمبود ریزمغذی ها</li><li><strong>قرص هیرویت</strong> مناسب برای دوران بعد از کاشت مو</li><li><strong>هیرویت </strong>فاقد رنگ مصنوعی، طعم دهنده و نگهدارنده</li><li>کمک به سلامت پوست صورت به واسطه داشتن ویتامین ها، مواد معدنی، پودر ژلاتین و مخمر</li><li>جلوگیری از سفید شدن موها به علت دارا بودن پابا</li><li>قابل استفاده برای مردان و زنان بالای 16 سال</li><li>غنی از ویتامین های گروه ب و آمینواسیدهای ضروری</li></ul>"
+  },
+  "flagName": "9.jpg"
+ },
+ "section2Data": {
+  "properties": [
+   {
+    "id": 1,
+    "title": "نوع محصول",
+    "value": "سافت ژل",
+    "url": null
+   },
+   {
+    "id": 2,
+    "title": "تعداد در بسته",
+    "value": "30 عدد",
+    "url": null
+   },
+   {
+    "id": 3,
+    "title": "کد بهداشتی",
+    "value": null,
+    "url": null
+   },
+   {
+    "id": 4,
+    "title": "گروه",
+    "value": "مراقبت مو",
+    "url": "/products/hair-care-1157"
+   },
+   {
+    "id": 5,
+    "title": "نوع محفظه",
+    "value": "جعبه مقوایی",
+    "url": null
+   },
+   {
+    "id": 6,
+    "title": "سن مصرف",
+    "value": "بالای 16 سال",
+    "url": null
+   },
+   {
+    "id": 7,
+    "title": "تحت لیسانس",
+    "value": "انگلستان",
+    "url": null
+   },
+   {
+    "id": 8,
+    "title": "کشور سازنده",
+    "value": "ایران",
+    "url": null
+   },
+   {
+    "id": 9,
+    "title": "شرکت سازنده",
+    "value": "شرکت نیک اختر آریا",
+    "url": null
+   },
+   {
+    "id": 10,
+    "title": "وبسایت مرجع",
+    "value": "www.healthaid.co.uk",
+    "url": null
+   },
+   {
+    "id": 11,
+    "title": "SPF",
+    "value": null,
+    "url": null
+   }
+  ],
+  "characteristics": {
+   "icon": null,
+   "title": "مشخصه ها",
+   "list": [
+    {
+     "id": 0,
+     "content": "قرص هیرویت منبع غنی از ویتامین های گروه B و اسیدهای آمینه و کلاژن",
+     "image": null,
+     "value": null
+    },
+    {
+     "id": 1,
+     "content": "هیرویت فاقد هر گونه رنگ مصنوعی، طعم دهنده و نگهدارنده",
+     "image": null,
+     "value": null
+    },
+    {
+     "id": 2,
+     "content": "مناسب برای زنان و مردان",
+     "image": null,
+     "value": null
+    }
+   ]
+  },
+  "usage": {
+   "icon": null,
+   "title": "موارد مصرف",
+   "list": [
+    {
+     "id": 0,
+     "content": "کمک به سلامت مو\nجلوگیری از ریزش مو\nتقویت و افزایش ضخامت تارهای موی آسیب دیده",
+     "image": null,
+     "value": null
+    }
+   ]
+  },
+  "keepConditions": {
+   "icon": null,
+   "title": "شرایط نگهداری",
+   "list": [
+    {
+     "id": 0,
+     "content": "در جای خشک و خنک و دور از دسترس کودکان نگهداری شود.",
+     "image": null,
+     "value": null
+    }
+   ]
+  },
+  "warning": {
+   "icon": null,
+   "title": "هشدار مصرف",
+   "list": [
+    {
+     "id": 0,
+     "content": "در صورت بروز حساسیت به ترکیبات قرص هیرویت از مصرف این فرآورده خودداری شود.\nمکمل هیرویت جهت تشخیص، پیشگیری و یا درمان بیماری نمی باشد.\nhair vit در دوران بارداری و شیردهی با نظر پزشک مصرف شود.\nمقدار توصیه شده را بدون مشورت با پزشک و یا داروساز افزایش ندهید.\nدر صورت مصرف دارو یا مکمل های دیگر، قبل از مصرف این فرآورده با پزشک یا داروساز مشورت نمایید.",
+     "image": null,
+     "value": null
+    }
+   ]
+  },
+  "userguid": "افراد بالای 16 سال، روزانه یک عدد کپسول هیرویت همراه با صبحانه مصرف نمایند.",
+  "ingredients": [
+   {
+    "id": 0,
+    "enName": "Vitamin B1 ( Thiamin )",
+    "faName": "ویتامین ب1 ( تیامین )",
+    "amount": "10 mg",
+    "dailyNeeded": "1111"
+   },
+   {
+    "id": 1,
+    "enName": "Vitamin B2 ( Riboflavin )",
+    "faName": "ویتامین ب2 ( ریبوفلاوین ) ",
+    "amount": "10 mg",
+    "dailyNeeded": "1111"
+   },
+   {
+    "id": 2,
+    "enName": "Vitamin B3 ( Niacin )",
+    "faName": "ویتامین ب3 ( نیاسین )",
+    "amount": "20 mg",
+    "dailyNeeded": "167"
+   },
+   {
+    "id": 3,
+    "enName": "Vitamin B6 ( Pyridoxine )",
+    "faName": "ویتامین ب6 ( پیریدوکسین )",
+    "amount": "5 mg",
+    "dailyNeeded": "385"
+   }
+  ],
+  "ingredientperuse": "به ازاي 1 سافت ژل"
+ },
+ "section3Data": {
+  "description": "<p>همه افراد در معرض تغییراتی مانند ریزش و نازک شدن موها هستند. تغذیه ناکافی و فقیر از مواد مغذی، استرس، تغییرات هورمونی و آلودگی هوا از جمله عواملی هستند که ریزش و نازک شدن موها را تشدید می کنند.<br>بهترین راه پیشگیری از ریزش و نازک شدن موها تغذیه متعادل می باشد. زیرا موها جهت حفظ ساختمان و ضخامت خود به ویتامین ها، مواد معدنی، اسیدهای آمینه و سایر مواد مغذی در دوران های مختلف زندگی خود نیاز دارند.</p><p>کپسول hair vit کمپانی Health Aid حاوی مجموعه ای از ویتامین های گروه B و اسیدهای آمینه ضروری می باشد. مصرف قرص ریزش مو هیرویت باعث جلوگیری از ریزش مو، بهبود بافت و افزایش ضخامت مو شده و همچنین سبب بهبود رنگ و درخشندگی مو نیز می شود و در تأمین سلامت مو بسیار مؤثر عمل می کند.<br>ترکیبات موجود در هرویت به صورت مستقیم و یا غیرمستقیم نقش خود را در سلامت مو ایفا کرده و علاوه بر این می توانند تأثیر یکدیگر را نیز تقویت کنند. فواید ترکیبات آن عبارتند از : - B complex : جزو ویتامین های محلول در آب هستند که اعمال متعددی را در بدن انجام می دهند، از آن جمله: در رشد و تقسیم سلولی، در واکنش های متابولیکی بدن، در بهبود و تقویت عملکرد سیستم ایمنی و سیستم عصبی. اما یکی از مهم ترین اعمال این گروه از ویتامین ها بهبود رشد و حفظ سلامت و شادابی پوست، مو و ناخن می باشد.</p><p>اثرات هر کدام از ویتامین های این گروه بر روی سلامت پوست، مو و ناخن در زیر بیان شده است :</p><p><strong>ویتامین B1:</strong> مطالعات انجام شده، نشان داده است که کمبود تیامین سبب کاهش خون رسانی به پوسته سر شده و پیامد آن باعث ریزش مو و کند شدن رشد تارهای جدید مو می شود.تیامین سبب حفظ سلامت پوست و شادابی آن می گردد.</p><p><strong>و",
+  "expertReview": "<h2 style=\"text-align:justify;\"><strong>هیرویت چیست؟</strong></h2><p style=\"text-align:justify;\"><strong>هیرویت </strong>یکی از مکمل های مراقبت مو است. معمولاً، تغذیه ناکافی و محدود از نظر مواد مغذی، تغییرات هورمونی، اختلال در خون رسانی به فولیکول مو، استرس و آلودگی هوا از جمله عواملی هستند که باعث ضعیف شدن، نازک شدن و در نهایت <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://darukade.com/mag/articles/hair-3/16-main-causes-of-hair-loss-1103\"><span style=\"color:hsl(210,75%,60%);\"><strong>ریزش موها</strong></span></a> می‌شوند. از آنجایی که موها برای حفظ استحکام و ضخامت خود به ویتامین‌ها، مواد معدنی و سایر مواد مغذی در دوران‌های مختلف چرخه رشد خود نیاز دارند، بهترین راه پیشگیری از ریزش و نازک‌شدن موها تغذیه متعادل و غنی از ترکیبات اثرگذار در تقویت مو می‌باشد.&nbsp;</p><p style=\"text-align:justify;\">در این مورد مکمل های تقویت پوست و مو مانند قرص هیر ویت اثرات چشمگیری دارند. مصرف هیر ویت باعث جلوگیری از <span style=\"color:hsl(0,0%,0%);\">ریزش مو</span>، بهبود بافت و افزایش ضخامت مو شده و همچنین سبب بهبود رنگ و درخشندگی مو می‌شود و در تأمین سلامت مو بسیار مؤثر عمل می‌کند.&nbsp;</p><p style=\"text-align:justify;\">هیرویت به شکل کپسول است ولی در بین مصرف‌کنندگان به <strong>قرص هیرویت</strong> معروف است که ظاهراً به معنای دارویی برای مراقبت مو است (نه اشاره به شکل دارویی آن). در این بخش ما نیز گاهاً از واژه قرص هیرویت به جای <strong>کپسول هیر ویت</strong> استفاده خواهیم کرد.</p><p style=\"text-align:center;\"><img src=\"https://statics.darukade.com/Images/Products/10141412762024119ER.jpg\"></p><h2 style=\"text-align:justify;\"><strong>خواص قرص هیرویت</strong></h2><p style=\"text-align:justify;\"><strong>خواص قرص هیرویت</strong> به ترکیبات آن نسبت داده می‌شود. از مهم‌ترین <strong>فواید قرص هیر ویت</strong> می‌توان به موارد زیر اشاره کرد:</p><p style=\"text-align:justify;\">- حفظ سلامت و تقویت فولیکول‌های مو<br>- حفظ درخشندگی و سلامت مو<br>- کاهش و جلوگیری از <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://darukade.com/mag/articles/hair-3/treatment-of-androgenic-hair-loss-in-men-and-women-1135\"><span style=\"color:hsl(210,75%,60%);\"><strong>ریزش مو</strong></span></a><br>- حفظ سلامت پوست<br>- حفظ سلامت سیستم ایمنی</p><p style=\"text-align:justify;\"><span style=\"color:hsl(0,0%,0%);\">برای کسب اطلاعات بیشتر در مورد </span><span style=\"background-color:rgb(255,255,255);color:hsl(0,0%,0%);\">فواید و ترکیبات</span><span style=\"color:hsl(0,0%,0%);\"> قرص هیرویت به مقاله \"</span><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://darukade.com/mag/articles/hair-3/what-is-hair-vit-and-what-are-its-benefits-1696\"><span style=\"background-color:rgb(255,255,255);color:hsl(210,75%,60%);\"><strong>قرص هیرویت چیست و چه خواصی دارد؟</strong></span></a><span style=\"background-color:rgb(255,255,255);color:hsl(0,0%,0%);\">\" تالیف و ترجمه دکتر شیدا احمدی کولایی (دکترای تخصصی فارماکوگنوزی) مراجعه نمایید.</span></p><p style=\"text-align:justify;\">&nbsp;</p><h2 style=\"text-align:justify;\"><strong>عوارض قرص هیرویت</strong></h2><p style=\"text-align:justify;\"><strong>قرص هیر وی",
+  "faq": [
+   {
+    "id": 0,
+    "question": "هیرویت بعد از چند روز اثر می کند؟",
+    "answer": "<p>متاسفانه نمی توان در مورد زمان شروع اثر قرص هیر ویت نظر قطعی داد. برخی از افراد، بعد از مصرف در روزهای ابتدایی نشانه بهبود گزارش کرده اند ولی مورد تایید قطعی نیست. به نظر می رسد برای مشاهده اثرات این مکمل، حداقل بایستی یک دوره از آن مصرف کرد.&nbsp;</p>"
+   },
+   {
+    "id": 1,
+    "question": "قرص هیرویت چاق کننده است؟",
+    "answer": "<p dir=\"RTL\">خیر. با این حال بایستی توجه کرد که هیرویت حاوی ویتامین های گروه <span dir=\"LTR\">B</span>، زینک و مخمر است. مطالعات نشان می دهد که کمبود زینک و ویتامین های گروه <span dir=\"LTR\">B</span> باعث بی اشتهایی می شود. بنابراین، مصرف این مکمل در افرادی که کمبود زینک و ویتامین های <span dir=\"LTR\">B</span> دارند، ممکن است با جیران کمبود این ریز مغذی ها باعث افزایش اشتها شود.</p>\n\n<p dir=\"RTL\">در صورتی که با مصرف این مکمل دچار افزایش اشتها شدید، با پزشک خود مشورت کنید. همچنین، می توانید با داشتن رژیم غذایی و کنترل اشتها، از اثرات آن جلوگیری کنید.</p>"
+   }
+  ]
+ },
+ "section4Data": {
+  "qa": [
+   {
+    "commentID": 682149,
+    "type": 0,
+    "typeTitle": null,
+    "isPrivate": false,
+    "isUnknown": false,
+    "isOperator": false,
+    "name": "محمد جواد جعفری",
+    "senderRank": 2.5,
+    "message": "سلام و عرض ادب \nهیر ویت رو فقط باید بعد از صبحانه میل کرد \nنمیشه بعد از ناهار باشه؟",
+    "shamsiLogDate": "1405/06/31 - 08:40",
+    "isLike": false,
+    "like": 0,
+    "isDislike": false,
+    "dislike": 0,
+    "avatar": "https://statics.darukade.com/Images/Avatars/AvatarUser1.svg",
+    "answers": [
+     {
+      "commentID": 682554,
+      "type": 0,
+      "typeTitle": null,
+      "isPrivate": false,
+      "isUnknown": false,
+      "isOperator": true,
+      "name": "داروکده",
+      "senderRank": 5,
+      "message": "<p>با سلام</p><p>کاربر گرامی، منع مصرفی در این زمینه گزارش نشده است و استفاده از این محصول همراه با وعده غذایی ناهار بلامانع است.</p><p>&nbsp;&nbsp;با تشکر - دکتر داروساز داروکده</p>",
+      "shamsiLogDate": "1405/07/01 - 09:50",
+      "isLike": false,
+      "like": 0,
+      "isDislike": false,
+      "dislike": 0,
+      "avatar": "https://statics.darukade.com/Images/Avatars/darukade1.png",
+      "answers": null
+     }
+    ]
+   },
+   {
+    "commentID": 682129,
+    "type": 0,
+    "typeTitle": null,
+    "isPrivate": false,
+    "isUnknown": false,
+    "isOperator": false,
+    "name": "غزاله قلمزن",
+    "senderRank": 2.5,
+    "message": "سلام مصرف این قرص در دوران شیردهی مشکلی نداره؟",
+    "shamsiLogDate": "1405/06/31 - 01:50",
+    "isLike": false,
+    "like": 0,
+    "isDislike": false,
+    "dislike": 0,
+    "avatar": "https://statics.darukade.com/Images/Avatars/AvatarUser1.svg",
+    "answers": [
+     {
+      "commentID": 682797,
+      "type": 0,
+      "typeTitle": null,
+      "isPrivate": false,
+      "isUnknown": false,
+      "isOperator": true,
+      "name": "داروکده",
+      "senderRank": 5,
+      "message": "<p>باسلام</p><p style=\"text-align:justify;\">کاربر گرامی، هیرویت حاوی ویتامین‌های گروه B، آهن، زینک و اسیدهای آمینه است که به‌خودی‌خود دوزهای بسیار بالایی ندارند، اما به دلیل وجود ترکیباتی مثل مخمر و پارا-آمینوبنزوئیک اسید، مصرف هیرویت در شیردهی با تایید پزشک پیشنهاد می شود.&nbsp;</p><p>&nbsp;&nbsp;با تشکر - دکتر داروساز داروکده</p>",
+      "shamsiLogDate": "1405/07/01 - 17:39",
+      "isLike": false,
+      "like": 0,
+      "isDislike": false,
+      "dislike": 0,
+      "avatar": "https://statics.darukade.com/Images/Avatars/darukade1.png",
+      "answers": null
+     }
+    ]
+   },
+   {
+    "commentID": 672802,
+    "type": 0,
+    "typeTitle": null,
+    "isPrivate": false,
+    "isUnknown": false,
+    "isOperator": false,
+    "name": "رستا جمشیدی",
+    "senderRank": 2.5,
+    "message": "با سلام میخواستم بدونم باعث زیاد شدن اشتها میشه؟",
+    "shamsiLogDate": "1405/05/31 - 22:31",
+    "isLike": false,
+    "like": 0,
+    "isDislike": false,
+    "dislike": 0,
+    "avatar": "https://statics.darukade.com/Images/Avatars/AvatarUser1.svg",
+    "answers": [
+     {
+      "commentID": 673338,
+      "type": 0,
+      "typeTitle": null,
+      "isPrivate": false,
+      "isUnknown": false,
+      "isOperator": true,
+      "name": "داروکده",
+      "senderRank": 5,
+      "message": "<p>باسلام</p><p style=\"text-align:justify;\">کاربر گرامی، این مکمل به‌طور مستقیم باعث افزایش اشتها نمی‌شود و فاقد کالری است؛ ترکیباتی مانند ویتامین‌های گروه B، آهن و روی فقط در صورت وجود کمبود ممکن است اشتهای کاهش‌یافته را بهبود دهند.</p><p>&nbsp;&nbsp;با تشکر - دکتر داروساز داروکده</p>",
+      "shamsiLogDate": "1405/06/02 - 10:04",
+      "isLike": false,
+      "like": 0,
+      "isDislike": false,
+      "dislike": 0,
+      "avatar": "https://statics.darukade.com/Images/Avatars/darukade1.png",
+      "answers": null
+     }
+    ]
+   }
+  ],
+  "viewPoints": [
+   {
+    "commentID": 685492,
+    "type": 0,
+    "typeTitle": null,
+    "isPrivate": false,
+    "isUnknown": false,
+    "isOperator": false,
+    "name": "مرجان عبادی",
+    "senderRank": 2.5,
+    "message": "برای رشد قد مو یه مکمل معرفی میکنید لطفا",
+    "shamsiLogDate": "1405/07/10 - 23:25",
+    "isLike": false,
+    "like": 0,
+    "isDislike": false,
+    "dislike": 0,
+    "avatar": "https://statics.darukade.com/Images/Avatars/AvatarUser1.svg",
+    "answers": [
+     {
+      "commentID": 686009,
+      "type": 0,
+      "typeTitle": null,
+      "isPrivate": false,
+      "isUnknown": false,
+      "isOperator": true,
+      "name": "داروکده",
+      "senderRank": 5,
+      "message": "<p style=\"text-align:justify;\">با سلام</p><p style=\"text-align:justify;\">کاربر گرامی، کمک به رشد مو، مکمل‌هایی مؤثرند که حاوی ترکیب هم افزا از ریزمغذی‌ها و اسیدهای آمینه ساختاری باشند: در رأس آن‌ها اسیدهای آمینه گوگرددار مانند ال-سیستئین و ال-متیونین قرار دارند که واحدهای اصلی تشکیل‌دهنده پیوندهای دی‌سولفیدی پروتئین کراتین ساقه مو هستند؛ در کنار آن‌ها، ویتامین‌های گروه B به‌ویژه بیوتین (B7) برای کراتین‌سازی و پانتوتنیک اسید (B5) جهت تأمین انرژی میتوزی ماتریکس فولیکول، زینک (روی) به عنوان کوفاکتور حیاتی در تقسیم سلولی، آهن جهت اکسیژن‌رسانی بهینه به پاپیلا و در نهایت سیلیکا (عصاره دم‌اسب/Horsetail) برای ارتقای خون‌رسانی مویرگی و استحکام الاستیسیته تار مو ضروری هستند؛ بنابراین وجود همزمان اسیدهای آمینه گوگردی، بیوتین، زینک و آنتی‌اکسیدان‌ها در یک فرمولاسیون، قوی‌ترین محرک رشد قدی تا حد پتانسیل ژنتیکی به شمار می‌رود. برای این منظور می‌توانید از محصولاتی نظیر <strong>هیرویت</strong> (همین محصول) و یا <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://darukade.com/products/supplement-hair-care-1157/tablet-folicogen-9738\"><span style=\"color:hsl(210,75%,60%);\"><strong>فولیکوژن </strong></span></a>استفاده نمایید.&nbsp;</p><p>&nbsp;&nbsp;با تشکر - دکتر داروساز داروکده</p>",
+      "shamsiLogDate": "1405/07/12 - 11:32",
+      "isLike": false,
+      "like": 0,
+      "isDislike": false,
+      "dislike": 0,
+      "avatar": "https://statics.darukade.com/Images/Avatars/darukade1.png",
+      "answers": null
+     }
+    ]
+   },
+   {
+    "commentID": 675029,
+    "type": 0,
+    "typeTitle": null,
+    "isPrivate": false,
+    "isUnknown": false,
+    "isOperator": false,
+    "name": "حمید رضا جویباری",
+    "senderRank": 2.5,
+    "message": "سلام. چند سال پیش سازمان غذا و داروی ایران اعلام کرد محصولات شرکت های health aid و opd pharma  به علت مشکل در مواد اولیه مصرف نشه. میخواستم بپرسم مصرف هیرویت چون از این شرکت هاست ضرر داره و آیا مشکل محصول این دو شرکت برطرف شده یا خیر؟",
+    "shamsiLogDate": "1405/06/08 - 10:43",
+    "isLike": false,
+    "like": 0,
+    "isDislike": false,
+    "dislike": 0,
+    "avatar": "https://statics.darukade.com/Images/Avatars/AvatarUser1.svg",
+    "answers": [
+     {
+      "commentID": 676028,
+      "type": 0,
+      "typeTitle": null,
+      "isPrivate": false,
+      "isUnknown": false,
+      "isOperator": true,
+      "name": "داروکده",
+      "senderRank": 5,
+      "message": "<p style=\"text-align:justify;\">با سلام<br>کاربر گرامی، تمامی مکمل‌ها و محصولات ارائه‌شده از جمله کپسول هیرویت و فرآورده‌های شرکت‌های داروسازی معتبر، دارای مجوز رسمی، پروانه ساخت و برچسب اصالت و سلامت (کد رهگیری TTAC) از سوی سازمان غذا و دارو هستند و کلیه محصولات موجود در داروکده دارای تأییدیه رسمی سازمان غذا و دارو بوده و مصرف اقلام دارای تاریخ انقضای معتبر و برچسب اصالت هیچ‌گونه خطری ندارد.</p><p>&nbsp;&nbsp;با تشکر - دکتر داروساز داروکده</p>",
+      "shamsiLogDate": "1405/06/11 - 09:33",
+      "isLike": false,
+      "like": 0,
+      "isDislike": false,
+      "dislike": 0,
+      "avatar": "https://statics.darukade.com/Images/Avatars/darukade1.png",
+      "answers": null
+     }
+    ]
+   }
+  ],
+  "ranks": {
+   "totalRank": 3.8,
+   "userRank": 3.8,
+   "expertRank": 4.3,
+   "questions": [],
+   "userRanks": []
+  },
+  "userProductImages": null,
+  "articles": [
+   {
+    "id": 873,
+    "rowIndex": 0,
+    "title": "بهترین ویتامین برای رشد مو",
+    "shamsiDate": null,
+    "image": "https://statics.darukade.com/Images/Articles/873202646114157.jpg",
+    "url": "/mag/articles/hair-3/vitamins-and-minerals-useful-for-strengthening-and-preventing-hair-loss-873",
+    "avatar": "https://statics.darukade.com/Images/Avatars/AU2024101510928.jpg",
+    "author": "مریم اکبری کیا",
+    "authorSum": "<p>کارشناس تغذیه از دانشگاه علوم پزشکی شیراز</p>",
+    "authorURL": "/mag/authors/63",
+    "like": "0",
+    "visit": "12K",
+    "articleSUM": "در این مقاله از مجله علمی داروکده به بررسی و معرفی بهترین ویتامین برای رشد مو خواهیم پرداخت. \n\n"
+   },
+   {
+    "id": 2660,
+    "rowIndex": 1,
+    "title": "كمبود كدام ويتامين باعث ريزش مو ميشود؟",
+    "shamsiDate": null,
+    "image": "https://statics.darukade.com/Images/Articles/2660202614171812.jpg",
+    "url": "/mag/articles/hair-3/which-vitamin-deficiency-causes-hair-loss-2660",
+    "avatar": "https://statics.darukade.com/Images/Avatars/AU2026527141544.jpg",
+    "author": "پرستو پاسبان",
+    "authorSum": "<p>کارشناس ارشد تغذیه بالینی از دانشگاه علوم پزشکی شیراز</p>",
+    "authorURL": "/mag/authors/73",
+    "like": "0",
+    "visit": "29K",
+    "articleSUM": "در این مقاله از مجله علمی داروکده، به بررسی مهم ترین ویتامین‌ها و مواد معدنی که کمبود آن‌ها باعث ریزش مو می‌شود پرداخته‌ایم."
+   }
+  ]
+ }
+}
