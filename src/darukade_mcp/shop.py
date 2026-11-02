@@ -205,7 +205,8 @@ async def _find(params: dict[str, str], sort: str | None, page: int, limit: int,
         )
     else:
         if sort in ("cheapest", "priciest"):
-            rows = [r for r in rows if r["price"]]  # priced-at-0 items sort first on the site; they have no price
+            # priced-at-0 items sort first on the site and it pins 2 products above the sort; re-sort the page here
+            rows = _order(rows, sort)
         if query and sort:
             out["note"] = "The site ignores this sort on text searches; results stay in relevance order."
     out["count"] = min(len(rows), limit)

@@ -117,6 +117,8 @@ async def test_cheapest_in_category_uses_site_sort_and_drops_unpriced(client, ap
     q = query(api.calls[0])
     assert q["s"] == "5" and q["a"] == "t" and q["g"] == "1379"
     assert r["count"] == 5 and all(p["price"] for p in r["products"])
+    prices = [p["price"] for p in r["products"]]
+    assert prices == sorted(prices)
 
 
 async def test_cheapest_needs_a_filter(client, api):
