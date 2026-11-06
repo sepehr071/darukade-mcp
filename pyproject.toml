@@ -1,6 +1,6 @@
 [project]
 name = "darukade-mcp"
-version = "0.1.1"
+version = "0.2.0"
 description = "Unofficial read-only MCP server for Darukade (darukade.com), an Iranian online pharmacy: search products, prices, ingredients, usage, reviews."
 readme = "README.md"
 license = "MIT"
