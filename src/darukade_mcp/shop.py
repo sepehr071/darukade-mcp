@@ -213,7 +213,7 @@ async def _find(params: dict[str, str], sort: str | None, page: int, limit: int,
 async def dr_search(
     query: Annotated[
         str | None,
-        Field(description="Persian words, e.g. ضد آفتاب.", max_length=100),
+        Field(description="Persian words from the product name, brand or use, e.g. ضد آفتاب.", max_length=100),
     ] = None,
     category: Category = None,
     brand: Brand = None,
@@ -238,7 +238,10 @@ async def dr_search(
 
 @tool("Cheapest products")
 async def dr_cheapest(
-    query: Annotated[str | None, Field(description="Persian words, e.g. ضد آفتاب.", max_length=100)] = None,
+    query: Annotated[
+        str | None,
+        Field(description="Persian words from the product name, brand or use, e.g. ضد آفتاب.", max_length=100),
+    ] = None,
     category: Category = None,
     brand: Brand = None,
     max_price: Annotated[int | None, Field(description="Toman.", ge=0)] = None,
@@ -248,7 +251,8 @@ async def dr_cheapest(
 ) -> dict[str, Any]:
     """List the lowest-priced products of a category, brand or search, cheapest first, skipping unpriced items.
 
-    Needs query, category, brand or form. Exact order with category/brand; a text query sorts its first 288 matches.
+    Use it for "cheapest sunscreen" or "cheapest vitamin D" (a text query works directly). Needs query, category,
+    brand or form. Exact order with category/brand; a text query sorts its first 288 matches.
     Prices are Toman after discount.
     """
     if not (query or category or brand or form):

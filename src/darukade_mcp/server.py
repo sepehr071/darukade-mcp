@@ -19,7 +19,8 @@ Tools: dr_search, dr_cheapest, dr_product (variants, ingredients, dosage, warnin
 (comments, pharmacist answers), dr_related, dr_categories / dr_brands / dr_forms (ids for filters), dr_home (offers),
 dr_articles / dr_article (health magazine, drug information).
 
-Flows: "cheapest sunscreen" -> dr_categories("ضد آفتاب") -> dr_cheapest(category=[id]). "Vitamin D under 300,000 Toman"
+Flows: "cheapest sunscreen" -> dr_cheapest(query="ضد آفتاب", max_price=...); a Persian word query works
+directly in dr_cheapest/dr_search, dr_categories is only for category-filtered lists. "Vitamin D under 300,000 Toman"
 -> dr_search("ویتامین د", max_price=300000, in_stock=true) -> dr_product. "Melatonin side effects" ->
 dr_articles("ملاتونین") -> dr_article. Prices are Toman after discount; a missing price means the site lists none.
 Queries are Persian words; the site cannot sort text searches, so dr_search/dr_cheapest sort up to 288 matches
